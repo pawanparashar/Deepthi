@@ -10,7 +10,7 @@ namespace Sample
     {
         static void Main(string[] args)
         {
-            Console.Write("V3.0");
+            Console.Write("V4.0");
         }
     }
 }
